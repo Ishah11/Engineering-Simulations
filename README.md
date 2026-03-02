@@ -6,10 +6,11 @@ It demonstrates my ability to model, simulate, and analyze engineering systems u
 Contents Overview
 
 - Aerodynamics & Aircraft Analysis: Lifting line theory, coefficient calculations
+- Structural Analysis: MATLAB scripts for analyzing beams, trusses, and structural components, demonstrating stress, deflection, and load calculations.
 
 Each project has been generalized to showcase engineering and programming skills while removing assignment-specific instructions.
 
-🛠️ Technologies & Tools
+Technologies & Tools
 
 MATLAB (including built-in functions for numerical computation, visualization, and simulation)
 
